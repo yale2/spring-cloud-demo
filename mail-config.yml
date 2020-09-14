@@ -11,4 +11,4 @@ spring:
 mail: 
   fromMail: 
     #以谁来发送邮件
-    addr: 281030206@qq.com
+    addr: xiaolong_ye1@sina.com
