@@ -12,3 +12,7 @@ mail:
   fromMail: 
     #以谁来发送邮件
     addr: xiaolong_ye1@sina.com
+
+registry: 
+  limitMin: 1
+  limiitTimes: 3
