@@ -14,5 +14,5 @@ mail:
     addr: xiaolong_ye1@sina.com
 
 registry: 
-  limitMin: 1
-  limitTimes: 90
+  limitSec: 90
+  limitTimes: 3
