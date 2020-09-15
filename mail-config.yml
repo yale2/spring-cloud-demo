@@ -15,4 +15,4 @@ mail:
 
 registry: 
   limitMin: 1
-  limiitTimes: 3
+  limitTimes: 3
